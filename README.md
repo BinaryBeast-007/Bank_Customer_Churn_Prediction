@@ -16,17 +16,20 @@ To run this Jupyter Notebook project, you need the following prerequisites:
 - Jupyter Notebook
 - Required Python libraries: pandas, numpy, matplotlib, seaborn, scikit-learn
 
+## Notebook Overview
 
 The Jupyter Notebook is structured as follows:
 
-Introduction: Brief overview of the project and its goals.
-Data Preprocessing: Loading and exploring the dataset, handling missing values, encoding categorical variables, and splitting the data into training and testing sets.
+1) Introduction: Brief overview of the project and its goals.
+2) Data Preprocessing: Loading and exploring the dataset, handling missing values, encoding categorical variables, and splitting the data 
+   into training and testing sets.
+3) Exploratory Data Analysis: Visualizing the distribution of features, exploring correlations, and identifying patterns in the data.
+4) Model Building: Implementing and training various machine learning models, including Logistic Regression, Random Forest, and Gradient 
+   Boosting.
+5) Model Evaluation: Evaluating model performance using metrics like accuracy, precision, recall, and F1-score. Comparing model results.
+6) Conclusion: Summarizing the findings, discussing insights, and suggesting potential actions based on the predictions.
+   Results
 
-Exploratory Data Analysis: Visualizing the distribution of features, exploring correlations, and identifying patterns in the data.
-Model Building: Implementing and training various machine learning models, including Logistic Regression, Random Forest, and Gradient Boosting.
-
-Model Evaluation: Evaluating model performance using metrics like accuracy, precision, recall, and F1-score. Comparing model results.
-Conclusion: Summarizing the findings, discussing insights, and suggesting potential actions based on the predictions.
-Results
+## Results
 
 The analysis and machine learning models provide insights into the factors that contribute to customer churn in a bank. The models' performance metrics help in selecting the most suitable model for making accurate predictions. Visualizations and graphs assist in understanding data distributions and correlations.
