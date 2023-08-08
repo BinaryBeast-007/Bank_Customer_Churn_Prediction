@@ -1,6 +1,6 @@
 # Bank Customer Churn Prediction
 
-![Bank Customer Churn](https://github.com/BinaryBeast-007/Bank_Customer_Churn_Prediction/raw/main/assets/bank_customer_churn.jpg)
+![Bank Customer Churn]([https://github.com/BinaryBeast-007/Bank_Customer_Churn_Prediction/raw/main/assets/bank_customer_churn.jpg](https://github.com/BinaryBeast-007/Bank_Customer_Churn_Prediction))
 
 ## Introduction
 
